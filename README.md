@@ -15,4 +15,7 @@ to insert values in the database just type this command.
 Ones you insert these values just execute your application.
 that's it.
 
+![Output](https://github.com/ahmed-dev-tech/Shopping-Cart-Using-Php-and-MySql-Database/blob/main/New%20folder/WhatsApp%20Image%202021-08-21%20at%2011.17.32%20PM.jpeg)
+![Output](https://github.com/ahmed-dev-tech/Shopping-Cart-Using-Php-and-MySql-Database/blob/main/New%20folder/WhatsApp%20Image%202021-08-21%20at%2011.18.14%20PM.jpeg)
+![Output](https://github.com/ahmed-dev-tech/Shopping-Cart-Using-Php-and-MySql-Database/blob/main/New%20folder/WhatsApp%20Image%202021-08-21%20at%2011.18.59%20PM.jpeg)
 Thank you.
